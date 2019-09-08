@@ -1,1 +1,1 @@
-# Connect4
+Xo game.
